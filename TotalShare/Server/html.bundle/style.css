@@ -1,0 +1,18 @@
+
+
+#content {
+    margin: 20px;
+    padding: 30px;
+    background: rgb(157,213,58);
+    min-height: 500px;
+}
+
+h2 {
+    color: white;
+}
+
+#list li {
+    list-style-type: none;
+    padding: 20px;
+    border: solid 1px black; 
+};
